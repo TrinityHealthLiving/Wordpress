@@ -32,11 +32,7 @@ get_header(); ?>
     <?php else : ?>
     <?php get_template_part( 'template-parts/content', 'none' ); ?>
     <?php endif; ?>
-  </main>
-  <!-- #main --> 
-	<script type="text/javascript" src="http://trinityhealthandliving.com.au/wp-content/themes/anissa/js/owl.carousel.js?ver=20120206"></script>
-</div>
-<?php
+	  <?php
 /**
  * Template part for displaying posts.
  *
@@ -65,6 +61,10 @@ get_header(); ?>
 	</div><!-- .entry-excerpt -->
 
 </article><!-- #post-## -->
+  </main>
+  <!-- #main --> 
+</div>
+
 <!-- #primary -->
 
 <?php get_sidebar(); ?>
