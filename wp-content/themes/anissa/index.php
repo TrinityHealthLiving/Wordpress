@@ -34,6 +34,7 @@ get_header(); ?>
     <?php endif; ?>
   </main>
   <!-- #main --> 
+	<script type="text/javascript" src="http://trinityhealthandliving.com.au/wp-content/themes/anissa/js/owl.carousel.js?ver=20120206"></script>
 </div>
 <!-- #primary -->
 
